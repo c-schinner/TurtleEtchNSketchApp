@@ -3,14 +3,12 @@ The Turtle Etch-a-Sketch App is a Python program that lets you create digital ar
 
 # Features
 Control the turtle's movements using arrow keys.
-Turn the turtle left or right by 5 degrees.
-Move the turtle forward or backward by 5 units.
-Clear the screen to start a new drawing.
-Getting Started
 
-# Prerequisites
-Python 3.x
-Turtle graphics library
+Turn the turtle left or right by 5 degrees.
+
+Move the turtle forward or backward by 5 units.
+
+Clear the screen to start a new drawing.
 
 # Usage
 1. Make sure you have Python installed. You can download it from the official Python website.
@@ -39,11 +37,14 @@ C: Clear the screen and start a new drawing.
 You can customize the app by modifying the movement and rotation values as well as the c_clear function behavior.
 
 # Contributing
-This app can be extended with more advanced drawing tools, color options, or saving and loading capabilities. Feel free to contribute new features to enhance the drawing experience.
+This app can be extended with more advanced drawing tools, color options, or saving and loading capabilities. 
+
+Feel free to contribute new features to enhance the drawing experience.
 
 # License
 This project is licensed under the MIT License.
 
 # Acknowledgments
 The app was created as a creative exploration of Turtle graphics, inspired by the classic Etch-a-Sketch toy.
+
 Have fun doodling and drawing with the Turtle Etch-a-Sketch App! Express your creativity on a digital canvas with ease.
